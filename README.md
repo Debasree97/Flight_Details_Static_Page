@@ -1,6 +1,6 @@
 # [Static Flight Details Page](https://flightdetails-debasree-bhowmiks-projects.vercel.app/)
 
-This page is a meticulously crafted, pixel-perfect static webpage translated from the provided Figma design, offering an visually engaging tablet and desktop experience.
+This page is a meticulously crafted, pixel-perfect static webpage translated from the provided Figma design, offering a visually engaging tablet and desktop experience.
 
 - Technology-
   - React
