@@ -1,11 +1,12 @@
 import "./App.css";
+import Body from "./components/Body/Body";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-500">
-        Hello, Tailwind CSS with Vite and React!
-      </h1>
+    <div className="bg-[#EBF0F5] rounded-2xl border border-[#EBF0F5] max-h-[723px] max-w-[1440px] flex  flex-col items-center mx-auto font-murecho">
+      <Navbar />
+      <Body />
     </div>
   );
 }
